@@ -1,0 +1,55 @@
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\BLL.dll
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\BLL.pdb
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\DAL.dll
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\DTO.dll
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\DAL.pdb
+D:\Game_OAQ\Game_OAQ\BLL\bin\Debug\DTO.pdb
+D:\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.dll
+D:\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\BLL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\BLL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\DAL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\DTO.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\DAL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\bin\Debug\DTO.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\BLL\obj\Debug\BLL.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\BLL.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\BLL.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\DAL.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\DTO.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\DAL.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\bin\Debug\DTO.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\obj\Debug\BLL.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\BLL\obj\Debug\BLL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\BLL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\BLL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\DAL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\DTO.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\DAL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\bin\Debug\DTO.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\obj\Debug\BLL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\BLL\obj\Debug\BLL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\BLL.dll
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\BLL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\DAL.dll
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\DTO.dll
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\DAL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\BLL\bin\Debug\DTO.pdb
+C:\Users\kien2\Downloads\Game_OAQ\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\kien2\Downloads\Game_OAQ\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\kien2\Downloads\Game_OAQ\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\kien2\Downloads\Game_OAQ\BLL\obj\Debug\BLL.dll
+C:\Users\kien2\Downloads\Game_OAQ\BLL\obj\Debug\BLL.pdb

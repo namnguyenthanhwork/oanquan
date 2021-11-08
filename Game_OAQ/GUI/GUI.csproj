@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08B79399-7D33-482F-84DE-752A8C62D305}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharacterChoice\CharacterChoiceGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterChoice\CharacterChoiceGUI.Designer.cs">
+      <DependentUpon>CharacterChoiceGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\CustomTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainGaime\TurnNotification.cs" />
+    <Compile Include="MessageBoxes\OkMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxes\OkMessageBox.Designer.cs">
+      <DependentUpon>OkMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxes\YesNoMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxes\YesNoMessageBox.Designer.cs">
+      <DependentUpon>YesNoMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regist\RegistHelpGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regist\RegistHelpGUI.Designer.cs">
+      <DependentUpon>RegistHelpGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start\Setting.cs" />
+    <Compile Include="Start\UserInformationGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start\UserInformationGUI.Designer.cs">
+      <DependentUpon>UserInformationGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start\VolumeInformationGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start\VolumeInformationGUI.Designer.cs">
+      <DependentUpon>VolumeInformationGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ultils\Enum\AnimationState.cs" />
+    <Compile Include="Ultils\Enum\FormKind.cs" />
+    <Compile Include="Ultils\Enum\SoundKind.cs" />
+    <Compile Include="Ultils\FormAni\DisappearAnimation.cs" />
+    <Compile Include="Ultils\FormAni\FloatAnimation.cs" />
+    <Compile Include="Ultils\FormAni\FormAnimation.cs" />
+    <Compile Include="Ultils\FormAni\ScalingDown.cs" />
+    <Compile Include="Ultils\FormAni\ScalingUp.cs" />
+    <Compile Include="Ultils\FormAni\ScrollDown.cs" />
+    <Compile Include="Ultils\FormAni\ScrollUp.cs" />
+    <Compile Include="Ultils\FormAni\SinkAnimation.cs" />
+    <Compile Include="Ultils\FormAni\ZoomInAnimation.cs" />
+    <Compile Include="Hint\HintGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hint\HintGUI.Designer.cs">
+      <DependentUpon>HintGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn\LogInGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn\LogInGUI.Designer.cs">
+      <DependentUpon>LogInGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainGaime\MainGameGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainGaime\MainGameGUI.Designer.cs">
+      <DependentUpon>MainGameGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rank\RankGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rank\RankGUI.Designer.cs">
+      <DependentUpon>RankGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regist\RegistGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regist\RegistGUI.Designer.cs">
+      <DependentUpon>RegistGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result\ResultGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result\ResultGUI.Designer.cs">
+      <DependentUpon>ResultGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ultils\SoundPath.cs" />
+    <Compile Include="Start\StartGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start\StartGUI.Designer.cs">
+      <DependentUpon>StartGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ultils\StringManagement.cs" />
+    <Compile Include="Ultils\Ultilities.cs" />
+    <Compile Include="Versus\VesusGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Versus\VesusGUI.Designer.cs">
+      <DependentUpon>VesusGUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CharacterChoice\CharacterChoiceGUI.resx">
+      <DependentUpon>CharacterChoiceGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hint\HintGUI.resx">
+      <DependentUpon>HintGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn\LogInGUI.resx">
+      <DependentUpon>LogInGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainGaime\MainGameGUI.resx">
+      <DependentUpon>MainGameGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxes\OkMessageBox.resx">
+      <DependentUpon>OkMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxes\YesNoMessageBox.resx">
+      <DependentUpon>YesNoMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rank\RankGUI.resx">
+      <DependentUpon>RankGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regist\RegistHelpGUI.resx">
+      <DependentUpon>RegistHelpGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regist\RegistGUI.resx">
+      <DependentUpon>RegistGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result\ResultGUI.resx">
+      <DependentUpon>ResultGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start\StartGUI.resx">
+      <DependentUpon>StartGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start\UserInformationGUI.resx">
+      <DependentUpon>UserInformationGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start\VolumeInformationGUI.resx">
+      <DependentUpon>VolumeInformationGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Versus\VesusGUI.resx">
+      <DependentUpon>VesusGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{912efa92-610b-40f2-a282-22d1b6f64e01}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{ed2e16b7-94b4-4641-9584-3e2949001e08}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

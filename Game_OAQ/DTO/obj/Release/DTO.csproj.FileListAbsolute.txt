@@ -1,0 +1,17 @@
+D:\Documents\doan\Game_OAQ\Game_OAQ\DTO\bin\Release\DTO.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\DTO\bin\Release\DTO.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\DTO\obj\Release\DTO.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\DTO\obj\Release\DTO.pdb
+D:\Game_OAQ\DTO\bin\Release\DTO.dll
+D:\Game_OAQ\DTO\bin\Release\DTO.pdb
+D:\Game_OAQ\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Game_OAQ\DTO\obj\Release\DTO.dll
+D:\Game_OAQ\DTO\obj\Release\DTO.pdb
+D:\Game_OAQ\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+C:\Users\kien2\Downloads\Game_OAQ\DTO\bin\Release\DTO.dll
+C:\Users\kien2\Downloads\Game_OAQ\DTO\bin\Release\DTO.pdb
+C:\Users\kien2\Downloads\Game_OAQ\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\kien2\Downloads\Game_OAQ\DTO\obj\Release\DTO.dll
+C:\Users\kien2\Downloads\Game_OAQ\DTO\obj\Release\DTO.pdb
+C:\Users\kien2\Downloads\Game_OAQ\DTO\obj\Release\DTO.csproj.AssemblyReference.cache

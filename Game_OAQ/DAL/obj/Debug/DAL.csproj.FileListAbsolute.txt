@@ -1,0 +1,45 @@
+D:\Game_OAQ\Game_OAQ\DAL\bin\Debug\DAL.dll
+D:\Game_OAQ\Game_OAQ\DAL\bin\Debug\DAL.pdb
+D:\Game_OAQ\Game_OAQ\DAL\bin\Debug\DTO.dll
+D:\Game_OAQ\Game_OAQ\DAL\bin\Debug\DTO.pdb
+D:\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.dll
+D:\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\bin\Debug\DAL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\bin\Debug\DAL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\bin\Debug\DTO.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\bin\Debug\DTO.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\DAL\obj\Debug\DAL.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\bin\Debug\DAL.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\bin\Debug\DAL.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\bin\Debug\DTO.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\bin\Debug\DTO.pdb
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\obj\Debug\DAL.dll
+C:\Users\Thanh Nam\Downloads\Compressed\Game_OAQ\DAL\obj\Debug\DAL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\bin\Debug\DAL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\bin\Debug\DAL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\bin\Debug\DTO.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\bin\Debug\DTO.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\obj\Debug\DAL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\DAL\obj\Debug\DAL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\DAL\bin\Debug\DAL.dll
+C:\Users\kien2\Downloads\Game_OAQ\DAL\bin\Debug\DAL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\DAL\bin\Debug\DTO.dll
+C:\Users\kien2\Downloads\Game_OAQ\DAL\bin\Debug\DTO.pdb
+C:\Users\kien2\Downloads\Game_OAQ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\kien2\Downloads\Game_OAQ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kien2\Downloads\Game_OAQ\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\kien2\Downloads\Game_OAQ\DAL\obj\Debug\DAL.dll
+C:\Users\kien2\Downloads\Game_OAQ\DAL\obj\Debug\DAL.pdb

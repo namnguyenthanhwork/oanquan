@@ -1,0 +1,132 @@
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\GUI.exe.config
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\GUI.exe
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\GUI.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\BLL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\DTO.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\DAL.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\BLL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\DTO.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\DAL.pdb
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\Interop.WMPLib.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\bin\Release\AxInterop.WMPLib.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\Interop.WMPLib.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\AxInterop.WMPLib.dll
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.csproj.ResolveComReference.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.HintGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.LogInGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.MainGameGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.Properties.Resources.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.RankGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.ResultGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.StartGUI.resources
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.csproj.CopyComplete
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.exe
+D:\Documents\doan\Game_OAQ\Game_OAQ\GUI\obj\Release\GUI.pdb
+D:\Game_OAQ\GUI\bin\Release\GUI.exe.config
+D:\Game_OAQ\GUI\bin\Release\GUI.exe
+D:\Game_OAQ\GUI\bin\Release\GUI.pdb
+D:\Game_OAQ\GUI\bin\Release\BLL.dll
+D:\Game_OAQ\GUI\bin\Release\DTO.dll
+D:\Game_OAQ\GUI\bin\Release\DAL.dll
+D:\Game_OAQ\GUI\bin\Release\BLL.pdb
+D:\Game_OAQ\GUI\bin\Release\DTO.pdb
+D:\Game_OAQ\GUI\bin\Release\DAL.pdb
+D:\Game_OAQ\GUI\bin\Release\Interop.WMPLib.dll
+D:\Game_OAQ\GUI\bin\Release\AxInterop.WMPLib.dll
+D:\Game_OAQ\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+D:\Game_OAQ\GUI\obj\Release\Interop.WMPLib.dll
+D:\Game_OAQ\GUI\obj\Release\AxInterop.WMPLib.dll
+D:\Game_OAQ\GUI\obj\Release\GUI.csproj.ResolveComReference.cache
+D:\Game_OAQ\GUI\obj\Release\GUI.CharacterChoiceGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.HintGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.LogInGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.MainGameGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.OkMessageBox.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.YesNoMessageBox.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.Properties.Resources.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.RankGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.Regist.RegistHelpGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.RegistGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.ResultGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.StartGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.Start.UserInformationGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.Start.VolumeInformationGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.VersusGUI.resources
+D:\Game_OAQ\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+D:\Game_OAQ\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+D:\Game_OAQ\GUI\obj\Release\GUI.csproj.CopyComplete
+D:\Game_OAQ\GUI\obj\Release\GUI.exe
+D:\Game_OAQ\GUI\obj\Release\GUI.pdb
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\GUI.exe.config
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\GUI.exe
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\GUI.pdb
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\BLL.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\DTO.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\DAL.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\BLL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\DTO.pdb
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\DAL.pdb
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\Interop.WMPLib.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\bin\Release\AxInterop.WMPLib.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\Interop.WMPLib.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\AxInterop.WMPLib.dll
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.csproj.ResolveComReference.cache
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.CharacterChoiceGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.HintGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.LogInGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.MainGameGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.OkMessageBox.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.YesNoMessageBox.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.RankGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.Regist.RegistHelpGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.RegistGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.ResultGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.StartGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.Start.UserInformationGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.Start.VolumeInformationGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.VersusGUI.resources
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.csproj.CopyComplete
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.exe
+C:\Users\kien2\Downloads\Game_OAQ\GUI\obj\Release\GUI.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\GUI.exe.config
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\GUI.exe
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\GUI.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\BLL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\DTO.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\DAL.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\BLL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\DTO.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\DAL.pdb
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\Interop.WMPLib.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\Interop.WMPLib.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.csproj.ResolveComReference.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.CharacterChoiceGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.HintGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.LogInGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.MainGameGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.OkMessageBox.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.MessageBoxes.YesNoMessageBox.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.RankGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.Regist.RegistHelpGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.RegistGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.ResultGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.StartGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.Start.UserInformationGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.Start.VolumeInformationGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.VersusGUI.resources
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.csproj.CopyComplete
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.exe
+C:\Users\Thanh Nam\Desktop\LTGD Project\Game_OAQ\GUI\obj\Release\GUI.pdb
